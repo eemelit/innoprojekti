@@ -17,7 +17,7 @@ public class AsdController {
         return new Hojohojo("ayyyy", "lmao");
     }
 
-    @RequestMapping("/asd")
+    @RequestMapping("/asdi")
     public Hojohojo hairahdus() {
         return new Hojohojo("wlolol", "1337");
     }
